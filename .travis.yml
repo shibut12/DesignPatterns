@@ -4,5 +4,4 @@ mono: none
 dotnet: 2.0.2
 script:
  - cd Creational
- - dotnet restore
  - dotnet build
