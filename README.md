@@ -1,6 +1,8 @@
 # Design Patterns
 Implements all GoF design patterns
 
+![Travis-CI build status](https://travis-ci.org/shibut12/DesignPatterns.svg?branch=master)
+
 ## Creational design patterns
 These deign patterns all about __creating instances__ . These patterns can further divided into class-creation patterns and object-creational patterns.
 * Class creational patterns
