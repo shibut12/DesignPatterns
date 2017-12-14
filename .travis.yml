@@ -5,3 +5,4 @@ dotnet: 2.0.2
 script:
  - cd Creational
  - dotnet build
+ - dotnet test
